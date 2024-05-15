@@ -1,0 +1,16 @@
+C:\Users\felip\source\repos\PARCIAL1\obj\Debug\net6.0-windows\PARCIAL1.csproj.GenerateResource.cache
+C:\Users\felip\source\repos\PARCIAL1\obj\Debug\net6.0-windows\PARCIAL1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\PARCIAL1\obj\Debug\net6.0-windows\PARCIAL1.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\PARCIAL1\obj\Debug\net6.0-windows\PARCIAL1.AssemblyInfo.cs
+C:\Users\felip\source\repos\PARCIAL1\obj\Debug\net6.0-windows\PARCIAL1.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\PARCIAL1\bin\Debug\net6.0-windows\PARCIAL1.exe
+C:\Users\felip\source\repos\PARCIAL1\bin\Debug\net6.0-windows\PARCIAL1.deps.json
+C:\Users\felip\source\repos\PARCIAL1\bin\Debug\net6.0-windows\PARCIAL1.runtimeconfig.json
+C:\Users\felip\source\repos\PARCIAL1\bin\Debug\net6.0-windows\PARCIAL1.dll
+C:\Users\felip\source\repos\PARCIAL1\bin\Debug\net6.0-windows\PARCIAL1.pdb
+C:\Users\felip\source\repos\PARCIAL1\obj\Debug\net6.0-windows\PARCIAL1.dll
+C:\Users\felip\source\repos\PARCIAL1\obj\Debug\net6.0-windows\refint\PARCIAL1.dll
+C:\Users\felip\source\repos\PARCIAL1\obj\Debug\net6.0-windows\PARCIAL1.pdb
+C:\Users\felip\source\repos\PARCIAL1\obj\Debug\net6.0-windows\PARCIAL1.genruntimeconfig.cache
+C:\Users\felip\source\repos\PARCIAL1\obj\Debug\net6.0-windows\ref\PARCIAL1.dll
+C:\Users\felip\source\repos\PARCIAL1\obj\Debug\net6.0-windows\PARCIAL1.Felipe_Mendiondo.resources
